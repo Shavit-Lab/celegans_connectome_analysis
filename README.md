@@ -19,3 +19,4 @@
   - head neurons, stretch receptors
 # Other sources
 sensory neurons: https://www.wormatlas.org/images/NeuronFixedPoints.pdf
+- Confirms: AQR, BAGL, AWCL/R, ADLL/R
