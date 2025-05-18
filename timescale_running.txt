@@ -1,0 +1,304 @@
+[Asset] sub-2022-06-14-13-SWF702/sub-2022-06-14-13-SWF702_ses-20220614_behavior+image+ophys.nwb
+  → opening sub-2022-06-14-13-SWF702_ses-20220614_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2022-06-14-13-SWF702_ses-20220614_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2022-06-14-13-SWF702_ses-20220614_behavior+image+ophys.nwb
+
+[Asset] sub-2022-06-28-01-SWF702/sub-2022-06-28-01-SWF702_ses-20220628_behavior+image+ophys.nwb
+  → opening sub-2022-06-28-01-SWF702_ses-20220628_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2022-06-28-01-SWF702_ses-20220628_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2022-06-28-01-SWF702_ses-20220628_behavior+image+ophys.nwb
+
+[Asset] sub-2022-06-28-07-SWF702/sub-2022-06-28-07-SWF702_ses-20220628_behavior+image+ophys.nwb
+  → opening sub-2022-06-28-07-SWF702_ses-20220628_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2022-06-28-07-SWF702_ses-20220628_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2022-06-28-07-SWF702_ses-20220628_behavior+image+ophys.nwb
+
+[Asset] sub-2022-06-14-07-SWF702/sub-2022-06-14-07-SWF702_ses-20220614_behavior+image+ophys.nwb
+  → opening sub-2022-06-14-07-SWF702_ses-20220614_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2022-06-14-07-SWF702_ses-20220614_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2022-06-14-07-SWF702_ses-20220614_behavior+image+ophys.nwb
+
+[Asset] sub-2022-06-14-01-SWF702/sub-2022-06-14-01-SWF702_ses-20220614_behavior+image+ophys.nwb
+  → opening sub-2022-06-14-01-SWF702_ses-20220614_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2022-06-14-01-SWF702_ses-20220614_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2022-06-14-01-SWF702_ses-20220614_behavior+image+ophys.nwb
+
+[Asset] sub-2022-07-15-06-SWF702/sub-2022-07-15-06-SWF702_ses-20220715_behavior+image+ophys.nwb
+  → opening sub-2022-07-15-06-SWF702_ses-20220715_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2022-07-15-06-SWF702_ses-20220715_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2022-07-15-06-SWF702_ses-20220715_behavior+image+ophys.nwb
+
+[Asset] sub-2022-07-15-12-SWF702/sub-2022-07-15-12-SWF702_ses-20220715_behavior+image+ophys.nwb
+  → opening sub-2022-07-15-12-SWF702_ses-20220715_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2022-07-15-12-SWF702_ses-20220715_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2022-07-15-12-SWF702_ses-20220715_behavior+image+ophys.nwb
+
+[Asset] sub-2022-08-02-01-SWF702/sub-2022-08-02-01-SWF702_ses-20220802_behavior+image+ophys.nwb
+  → opening sub-2022-08-02-01-SWF702_ses-20220802_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2022-08-02-01-SWF702_ses-20220802_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2022-08-02-01-SWF702_ses-20220802_behavior+image+ophys.nwb
+
+[Asset] sub-2022-07-20-01-SWF702/sub-2022-07-20-01-SWF702_ses-20220720_behavior+image+ophys.nwb
+  → opening sub-2022-07-20-01-SWF702_ses-20220720_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2022-07-20-01-SWF702_ses-20220720_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2022-07-20-01-SWF702_ses-20220720_behavior+image+ophys.nwb
+
+[Asset] sub-2022-07-26-01-SWF702/sub-2022-07-26-01-SWF702_ses-20220726_behavior+image+ophys.nwb
+  → opening sub-2022-07-26-01-SWF702_ses-20220726_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2022-07-26-01-SWF702_ses-20220726_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2022-07-26-01-SWF702_ses-20220726_behavior+image+ophys.nwb
+
+[Asset] sub-2022-12-21-06-SWF702/sub-2022-12-21-06-SWF702_ses-20221221_behavior+image+ophys.nwb
+  → opening sub-2022-12-21-06-SWF702_ses-20221221_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2022-12-21-06-SWF702_ses-20221221_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2022-12-21-06-SWF702_ses-20221221_behavior+image+ophys.nwb
+
+[Asset] sub-2023-01-05-01-SWF702/sub-2023-01-05-01-SWF702_ses-20230105_behavior+image+ophys.nwb
+  → opening sub-2023-01-05-01-SWF702_ses-20230105_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2023-01-05-01-SWF702_ses-20230105_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2023-01-05-01-SWF702_ses-20230105_behavior+image+ophys.nwb
+
+[Asset] sub-2023-01-05-18-SWF702/sub-2023-01-05-18-SWF702_ses-20230105_behavior+image+ophys.nwb
+  → opening sub-2023-01-05-18-SWF702_ses-20230105_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2023-01-05-18-SWF702_ses-20230105_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2023-01-05-18-SWF702_ses-20230105_behavior+image+ophys.nwb
+
+[Asset] sub-2023-01-06-01-SWF702/sub-2023-01-06-01-SWF702_ses-20230106_behavior+image+ophys.nwb
+  → opening sub-2023-01-06-01-SWF702_ses-20230106_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2023-01-06-01-SWF702_ses-20230106_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2023-01-06-01-SWF702_ses-20230106_behavior+image+ophys.nwb
+
+[Asset] sub-2023-01-09-08-SWF702/sub-2023-01-09-08-SWF702_ses-20230109_behavior+image+ophys.nwb
+  → opening sub-2023-01-09-08-SWF702_ses-20230109_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2023-01-09-08-SWF702_ses-20230109_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2023-01-09-08-SWF702_ses-20230109_behavior+image+ophys.nwb
+
+[Asset] sub-2023-01-06-08-SWF702/sub-2023-01-06-08-SWF702_ses-20230106_behavior+image+ophys.nwb
+  → opening sub-2023-01-06-08-SWF702_ses-20230106_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2023-01-06-08-SWF702_ses-20230106_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2023-01-06-08-SWF702_ses-20230106_behavior+image+ophys.nwb
+
+[Asset] sub-2023-01-09-15-SWF702/sub-2023-01-09-15-SWF702_ses-20230109_behavior+image+ophys.nwb
+  → opening sub-2023-01-09-15-SWF702_ses-20230109_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2023-01-09-15-SWF702_ses-20230109_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2023-01-09-15-SWF702_ses-20230109_behavior+image+ophys.nwb
+
+[Asset] sub-2023-01-09-22-SWF702/sub-2023-01-09-22-SWF702_ses-20230109_behavior+image+ophys.nwb
+  → opening sub-2023-01-09-22-SWF702_ses-20230109_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2023-01-09-22-SWF702_ses-20230109_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2023-01-09-22-SWF702_ses-20230109_behavior+image+ophys.nwb
+
+[Asset] sub-2023-01-13-07-SWF702/sub-2023-01-13-07-SWF702_ses-20230113_behavior+image+ophys.nwb
+  → opening sub-2023-01-13-07-SWF702_ses-20230113_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2023-01-13-07-SWF702_ses-20230113_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2023-01-13-07-SWF702_ses-20230113_behavior+image+ophys.nwb
+
+[Asset] sub-2023-01-10-07-SWF702/sub-2023-01-10-07-SWF702_ses-20230110_behavior+image+ophys.nwb
+  → opening sub-2023-01-10-07-SWF702_ses-20230110_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2023-01-10-07-SWF702_ses-20230110_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2023-01-10-07-SWF702_ses-20230110_behavior+image+ophys.nwb
+
+[Asset] sub-2023-01-09-28-SWF702/sub-2023-01-09-28-SWF702_ses-20230109_behavior+image+ophys.nwb
+  → opening sub-2023-01-09-28-SWF702_ses-20230109_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2023-01-09-28-SWF702_ses-20230109_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2023-01-09-28-SWF702_ses-20230109_behavior+image+ophys.nwb
+
+[Asset] sub-2023-01-10-14-SWF702/sub-2023-01-10-14-SWF702_ses-20230110_behavior+image+ophys.nwb
+  → opening sub-2023-01-10-14-SWF702_ses-20230110_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2023-01-10-14-SWF702_ses-20230110_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2023-01-10-14-SWF702_ses-20230110_behavior+image+ophys.nwb
+
+[Asset] sub-2023-01-16-01-SWF702/sub-2023-01-16-01-SWF702_ses-20230116_behavior+image+ophys.nwb
+  → opening sub-2023-01-16-01-SWF702_ses-20230116_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2023-01-16-01-SWF702_ses-20230116_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2023-01-16-01-SWF702_ses-20230116_behavior+image+ophys.nwb
+
+[Asset] sub-2023-01-16-08-SWF702/sub-2023-01-16-08-SWF702_ses-20230116_behavior+image+ophys.nwb
+  → opening sub-2023-01-16-08-SWF702_ses-20230116_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2023-01-16-08-SWF702_ses-20230116_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2023-01-16-08-SWF702_ses-20230116_behavior+image+ophys.nwb
+
+[Asset] sub-2023-01-16-22-SWF702/sub-2023-01-16-22-SWF702_ses-20230116_behavior+image+ophys.nwb
+  → opening sub-2023-01-16-22-SWF702_ses-20230116_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2023-01-16-22-SWF702_ses-20230116_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2023-01-16-22-SWF702_ses-20230116_behavior+image+ophys.nwb
+
+[Asset] sub-2023-01-16-15-SWF702/sub-2023-01-16-15-SWF702_ses-20230116_behavior+image+ophys.nwb
+  → opening sub-2023-01-16-15-SWF702_ses-20230116_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2023-01-16-15-SWF702_ses-20230116_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2023-01-16-15-SWF702_ses-20230116_behavior+image+ophys.nwb
+
+[Asset] sub-2023-01-17-01-SWF702/sub-2023-01-17-01-SWF702_ses-20230117_behavior+image+ophys.nwb
+  → opening sub-2023-01-17-01-SWF702_ses-20230117_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2023-01-17-01-SWF702_ses-20230117_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2023-01-17-01-SWF702_ses-20230117_behavior+image+ophys.nwb
+
+[Asset] sub-2023-01-17-07-SWF702/sub-2023-01-17-07-SWF702_ses-20230117_behavior+image+ophys.nwb
+  → opening sub-2023-01-17-07-SWF702_ses-20230117_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2023-01-17-07-SWF702_ses-20230117_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2023-01-17-07-SWF702_ses-20230117_behavior+image+ophys.nwb
+
+[Asset] sub-2023-01-17-14-SWF702/sub-2023-01-17-14-SWF702_ses-20230117_behavior+image+ophys.nwb
+  → opening sub-2023-01-17-14-SWF702_ses-20230117_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2023-01-17-14-SWF702_ses-20230117_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2023-01-17-14-SWF702_ses-20230117_behavior+image+ophys.nwb
+
+[Asset] sub-2023-01-19-08-SWF702/sub-2023-01-19-08-SWF702_ses-20230119_behavior+image+ophys.nwb
+  → opening sub-2023-01-19-08-SWF702_ses-20230119_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2023-01-19-08-SWF702_ses-20230119_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2023-01-19-08-SWF702_ses-20230119_behavior+image+ophys.nwb
+
+[Asset] sub-2023-01-19-15-SWF702/sub-2023-01-19-15-SWF702_ses-20230119_behavior+image+ophys.nwb
+  → opening sub-2023-01-19-15-SWF702_ses-20230119_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2023-01-19-15-SWF702_ses-20230119_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2023-01-19-15-SWF702_ses-20230119_behavior+image+ophys.nwb
+
+[Asset] sub-2023-01-19-22-SWF702/sub-2023-01-19-22-SWF702_ses-20230119_behavior+image+ophys.nwb
+  → opening sub-2023-01-19-22-SWF702_ses-20230119_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2023-01-19-22-SWF702_ses-20230119_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2023-01-19-22-SWF702_ses-20230119_behavior+image+ophys.nwb
+
+[Asset] sub-2023-01-18-01-SWF702/sub-2023-01-18-01-SWF702_ses-20230118_behavior+image+ophys.nwb
+  → opening sub-2023-01-18-01-SWF702_ses-20230118_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2023-01-18-01-SWF702_ses-20230118_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2023-01-18-01-SWF702_ses-20230118_behavior+image+ophys.nwb
+
+[Asset] sub-2023-01-23-15-SWF702/sub-2023-01-23-15-SWF702_ses-20230123_behavior+image+ophys.nwb
+  → opening sub-2023-01-23-15-SWF702_ses-20230123_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2023-01-23-15-SWF702_ses-20230123_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2023-01-23-15-SWF702_ses-20230123_behavior+image+ophys.nwb
+
+[Asset] sub-2023-01-23-01-SWF702/sub-2023-01-23-01-SWF702_ses-20230123_behavior+image+ophys.nwb
+  → opening sub-2023-01-23-01-SWF702_ses-20230123_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2023-01-23-01-SWF702_ses-20230123_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2023-01-23-01-SWF702_ses-20230123_behavior+image+ophys.nwb
+
+[Asset] sub-2023-01-23-08-SWF702/sub-2023-01-23-08-SWF702_ses-20230123_behavior+image+ophys.nwb
+  → opening sub-2023-01-23-08-SWF702_ses-20230123_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2023-01-23-08-SWF702_ses-20230123_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2023-01-23-08-SWF702_ses-20230123_behavior+image+ophys.nwb
+
+[Asset] sub-2023-01-23-21-SWF702/sub-2023-01-23-21-SWF702_ses-20230123_behavior+image+ophys.nwb
+  → opening sub-2023-01-23-21-SWF702_ses-20230123_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2023-01-23-21-SWF702_ses-20230123_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2023-01-23-21-SWF702_ses-20230123_behavior+image+ophys.nwb
+
+[Asset] sub-2023-03-07-01-SWF702/sub-2023-03-07-01-SWF702_ses-20230307_behavior+image+ophys.nwb
+  → opening sub-2023-03-07-01-SWF702_ses-20230307_behavior+image+ophys.nwb
+     modules: ['BF_NIR', 'Behavior', 'CalciumActivity', 'NeuroPAL']
+     interfaces: ['CalciumSeriesSegmentation', 'NeuronIDs', 'SignalRawFluor', 'SignalCalciumImResponseSeries']
+     using interface: SignalCalciumImResponseSeries
+     ✓ wrote sub-2023-03-07-01-SWF702_ses-20230307_behavior+image+ophys.csv to data/observed_func
+    → deleted sub-2023-03-07-01-SWF702_ses-20230307_behavior+image+ophys.nwb
+
