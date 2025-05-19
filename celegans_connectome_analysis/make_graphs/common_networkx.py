@@ -3,7 +3,7 @@
 # run python celegans_connectome_analysis/make_graphs/common_networkx.py
 
 # Requirements: data/data_derivatives/checked_graph.gpickle, data/observed_func/*.csv
-# Output: data/data_derivatives/obs_func.gpickle containing the graph with observational data
+# Output: data/data_derivatives/stx_fx_time.gpickle containing the graph with observational data
 
 import networkx as nx
 import numpy as np
@@ -35,7 +35,7 @@ for csv_path in csv_dir.glob("*.csv"):
         ts_dict[label] = df[neuron].values
         G.nodes[neuron]["timeseries"] = ts_dict
 
-with open('data/data_derivatives/obs_func.gpickle', 'wb') as f:
+with open('data/data_derivatives/stx_fx_time.gpickle', 'wb') as f:
     pickle.dump(G, f)
     
 for node in sorted(G.nodes):
