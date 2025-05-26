@@ -1,4 +1,12 @@
-#!/usr/bin/env python3
+# Downloads .nwb files from DANDI and processes them into .csv files
+# Downloads files 1 by 1 to avoid memory issues (works in /storage2/projects/celegans)
+# CSV files are saved in data/observed_func/
+
+# run python celegans_connectome_analysis/make_graphs/process_timescales.py
+
+# Requirements: dandi installed
+# Output: data/observed_func/*.csv containing the observational data
+
 import subprocess
 import json
 import sys
